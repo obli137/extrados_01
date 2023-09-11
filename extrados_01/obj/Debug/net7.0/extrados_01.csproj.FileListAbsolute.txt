@@ -1,0 +1,15 @@
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/bin/Debug/net7.0/extrados_01
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/bin/Debug/net7.0/extrados_01.deps.json
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/bin/Debug/net7.0/extrados_01.runtimeconfig.json
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/bin/Debug/net7.0/extrados_01.dll
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/bin/Debug/net7.0/extrados_01.pdb
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.csproj.AssemblyReference.cache
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.AssemblyInfoInputs.cache
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.AssemblyInfo.cs
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.csproj.CoreCompileInputs.cache
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.dll
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/refint/extrados_01.dll
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.pdb
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/extrados_01.genruntimeconfig.cache
+/Users/obli/Documents/BOOTCAMP Extrados/POO/extrados_01/extrados_01/obj/Debug/net7.0/ref/extrados_01.dll
